@@ -17,4 +17,4 @@
 * Mentor Signature (in progress), Uncle John or Uncle Daniel
 
 == VBS Training Notes ==
-[https://github.com/NuclearReactor314/YSMP-2025/blob/main/May10.wiki/ Lesson Focus]
+* [https://github.com/NuclearReactor314/YSMP-2025/blob/main/May10.wiki/ Lesson Focus] May 10, 2025
